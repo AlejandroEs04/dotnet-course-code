@@ -1,0 +1,15 @@
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\bin\Debug\net8.0\Methods.exe
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\bin\Debug\net8.0\Methods.deps.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\bin\Debug\net8.0\Methods.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\bin\Debug\net8.0\Methods.pdb
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\Methods.sourcelink.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\Methods.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\refint\Methods.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\Methods.pdb
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\methods\obj\Debug\net8.0\ref\Methods.dll

@@ -1,0 +1,15 @@
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\bin\Debug\net8.0\LogicProgramming.exe
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\bin\Debug\net8.0\LogicProgramming.deps.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\bin\Debug\net8.0\LogicProgramming.runtimeconfig.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\bin\Debug\net8.0\LogicProgramming.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\bin\Debug\net8.0\LogicProgramming.pdb
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\LogicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\LogicProgramming.AssemblyInfoInputs.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\LogicProgramming.AssemblyInfo.cs
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\LogicProgramming.csproj.CoreCompileInputs.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\LogicProgramming.sourcelink.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\LogicProgramming.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\refint\LogicProgramming.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\LogicProgramming.pdb
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\LogicProgramming.genruntimeconfig.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\logicprogramming\obj\Debug\net8.0\ref\LogicProgramming.dll

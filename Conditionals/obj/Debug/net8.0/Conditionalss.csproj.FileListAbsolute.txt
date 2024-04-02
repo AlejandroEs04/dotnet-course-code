@@ -1,0 +1,15 @@
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\bin\Debug\net8.0\Conditionalss.exe
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\bin\Debug\net8.0\Conditionalss.deps.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\bin\Debug\net8.0\Conditionalss.runtimeconfig.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\bin\Debug\net8.0\Conditionalss.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\bin\Debug\net8.0\Conditionalss.pdb
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\Conditionalss.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\Conditionalss.AssemblyInfoInputs.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\Conditionalss.AssemblyInfo.cs
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\Conditionalss.csproj.CoreCompileInputs.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\Conditionalss.sourcelink.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\Conditionalss.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\refint\Conditionalss.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\Conditionalss.pdb
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\Conditionalss.genruntimeconfig.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Conditionals\obj\Debug\net8.0\ref\Conditionalss.dll
