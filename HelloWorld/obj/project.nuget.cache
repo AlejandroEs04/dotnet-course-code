@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uNn/o1q+4YNhCne2asEiVeycsIhQJT+SXAQk61SxS3jcj4mbIzxNpD46pClmQzQoBYqJtEPdAaA05rU88Y5Ouw==",
+  "dgSpecHash": "EGJoki1WNtigC0fYwrPd2cdgkQUnq0Wa2FQG3MkTU6XGVlkhy2GPq6tOcNmJu9JCBwV4phxdw7kl42WDf0RGiQ==",
   "success": true,
-  "projectFilePath": "E:\\Users\\Default\\Documents\\Development Projects\\Software Development\\dotnet-course-code\\helloworld\\HelloWorld.csproj",
+  "projectFilePath": "E:\\Users\\Default\\Documents\\Development Projects\\Software Development\\dotnet-course-code\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
