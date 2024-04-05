@@ -67,3 +67,12 @@ E:\Users\Default\Documents\Development Projects\Software Development\dotnet-cour
 E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\models\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\models\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
 E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\models\obj\Debug\net8.0\Models.csproj.Up2Date
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Models\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Models\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Models\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Models\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Models\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Models\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Models\bin\Debug\net8.0\appsettings.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Models\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\Models\bin\Debug\net8.0\AutoMapper.dll

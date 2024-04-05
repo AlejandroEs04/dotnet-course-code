@@ -1,0 +1,15 @@
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\bin\Debug\net8.0\AsyncTask.exe
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\bin\Debug\net8.0\AsyncTask.deps.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\bin\Debug\net8.0\AsyncTask.runtimeconfig.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\bin\Debug\net8.0\AsyncTask.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\bin\Debug\net8.0\AsyncTask.pdb
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\AsyncTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\AsyncTask.AssemblyInfoInputs.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\AsyncTask.AssemblyInfo.cs
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\AsyncTask.csproj.CoreCompileInputs.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\AsyncTask.sourcelink.json
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\AsyncTask.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\refint\AsyncTask.dll
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\AsyncTask.pdb
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\AsyncTask.genruntimeconfig.cache
+E:\Users\Default\Documents\Development Projects\Software Development\dotnet-course-code\AsyncTask\obj\Debug\net8.0\ref\AsyncTask.dll

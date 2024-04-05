@@ -1,0 +1,50 @@
+INSERT INTO TutorialAppSchema.Computer (
+                Motherboard, 
+                HasWifi, 
+                HasLTE, 
+                ReleaseDate, 
+                Price, 
+                CPUCores, 
+                VideoCard
+            ) VALUES ('GT908','False','False','2024-04-02','698.99','6','GTX 20410')
+
+INSERT INTO TutorialAppSchema.Computer (
+                Motherboard, 
+                HasWifi, 
+                HasLTE, 
+                ReleaseDate, 
+                Price, 
+                CPUCores, 
+                VideoCard
+            ) VALUES ('GT908','False','False','2024-04-02','698.99','6','GTX 20410')
+
+INSERT INTO TutorialAppSchema.Computer (
+                Motherboard, 
+                HasWifi, 
+                HasLTE, 
+                ReleaseDate, 
+                Price, 
+                CPUCores, 
+                VideoCard
+            ) VALUES ('GT908','False','False','2024-04-02','698.99','6','GTX 20410')
+
+INSERT INTO TutorialAppSchema.Computer (
+                Motherboard, 
+                HasWifi, 
+                HasLTE, 
+                ReleaseDate, 
+                Price, 
+                CPUCores, 
+                VideoCard
+            ) VALUES ('GT908','False','False','2024-04-02','698.99','6','GTX 20410')
+
+INSERT INTO TutorialAppSchema.Computer (
+                Motherboard, 
+                HasWifi, 
+                HasLTE, 
+                ReleaseDate, 
+                Price, 
+                CPUCores, 
+                VideoCard
+            ) VALUES ('GT908','False','False','2024-04-02','698.99','6','GTX 20410')
+
